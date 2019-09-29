@@ -1,0 +1,21 @@
+{
+  "name": "contactlist",
+  "version": "1.0.0",
+  "description": "mean app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Durgaprasad",
+  "license": "ISC",
+  "dependencies": {
+    "@angular/cdk": "^8.2.1",
+    "@angular/cli": "^8.3.6",
+    "@angular/material": "^8.2.1",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.7.1",
+    "nodeman": "^1.1.2"
+  }
+}
